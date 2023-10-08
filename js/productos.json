@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Platillo Zildjian A",
+        "precio": 350000,
+        "categoria": "Platillos",
+        "imagen": "c1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Platillo Zildjian A2",
+        "precio": 370000,
+        "categoria": "Platillos",
+        "imagen": "c2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Platillo Zildjian A3",
+        "precio": 385000,
+        "categoria": "Platillos",
+        "imagen": "c3.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Platillo Zildjian A4",
+        "precio": 410000,
+        "categoria": "Platillos",
+        "imagen": "c4.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Redoblante DW 1",
+        "precio": 500000,
+        "categoria": "Redoblantes",
+        "imagen": "s1.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Redoblante DW 2",
+        "precio": 520000,
+        "categoria": "Redoblantes",
+        "imagen": "s2.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Redoblante DW 3",
+        "precio": 515000,
+        "categoria": "Redoblantes",
+        "imagen": "s3.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Redoblante DW 4",
+        "precio": 630000,
+        "categoria": "Redoblantes",
+        "imagen": "s4.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Bateria DW 1",
+        "precio": 5000000,
+        "categoria": "Baterias",
+        "imagen": "bate1.webp"
+    },
+    {
+        "id": 10,
+        "nombre": "Bateria DW 2",
+        "precio": 8000000,
+        "categoria": "Baterias",
+        "imagen": "bate2.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Bateria DW 3",
+        "precio": 10000000,
+        "categoria": "Baterias",
+        "imagen": "bate3.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Pedal DW 1",
+        "precio": 520000,
+        "categoria": "Pedales",
+        "imagen": "pedal1.webp"
+    }
+]
