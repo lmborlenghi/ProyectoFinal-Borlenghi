@@ -173,7 +173,7 @@ document.querySelector("#btnTodos").addEventListener("click", (event) => {
 
 bd.traerRegistros().then((productos) => cargarProductos(productos));
 
-//Muestra los registros de la base de datos en nuestro HTML
+//Muestra registros de la base de datos en nuestro HTML
 function cargarProductos(productos){
     divProductos.innerHTML ="";
     for (const producto of productos){
@@ -189,7 +189,7 @@ function cargarProductos(productos){
                 </div>
             </div>`;
     }
-    //Botones de agregar al carrito
+    //Botones agregar al carrito
     const botonesAgregar = document.querySelectorAll(".btnAgregar");
     for (const boton of botonesAgregar) {
         boton.addEventListener("click", (event) => {
@@ -215,7 +215,7 @@ inputBuscar.addEventListener("keyup", (event) => {
 })
 
 
-// Mensaje de compra realizada con Sweet Alert
+// Mensaje de compra con Sweet Alert
 botonPagar.addEventListener("click", (event) => {
     event.preventDefault();
     Swal.fire({
